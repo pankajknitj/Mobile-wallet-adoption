@@ -15,29 +15,29 @@ All the steps are listed below ,sequentially we will apply them
 * Set the Eigenvalues limit to 1, Means we will select that component or factor having Eigen value greater than 1.
 ![](https://github.com/pankajknitj/Mobile-wallet-adoption/blob/master/utils/total%20veience%20explained.png)
 * We can clearilly see that 4 component has been made from the 16 variables.
-* The first component have the highest varience explained.
+* The first component have the highest varience explained, around 38%.
 # Scree plot
 * We generally take the knee value number of component, lets see the below plot
 ![](https://github.com/pankajknitj/Mobile-wallet-adoption/blob/master/utils/scree%20plot.png)
 ### Segregating variables into factors.
 * Variables having the highest value of correlation, put that varible into that factor only. By this we will comeup with the segregated variables.
 ![](https://github.com/pankajknitj/Mobile-wallet-adoption/blob/master/utils/rotated%20component%20matrix.png)
-* **Factor 1** consist of
+### Factor 1 consist of
 * Save time
 * Convinient transaction
 * Easy to track history
 * More convinient than debitcard.
 * Scured Mode transaction
 * Reliabel transaction
-**Factor 2** comprises of
+### Factor 2 comprises of
 * when alone try new thingd.
 * Explore new technology
 * experiment with way of life
-**Factor 3** coprises of
+### Factor 3 coprises of
 * Perer to used which used by friend.
 * Recomended by family or friend.
 * Use when see people using it.
-**Factor 4** comprises of
+### Factor 4 comprises of
 * Easy in payment to local vendor.
 
 ## Factor labeling
