@@ -42,7 +42,7 @@ All the steps are listed below ,sequentially we will apply them
 
 ## Factor labeling
 means we assign a label to each of the factor based the charactristics of the contained variable.
-* F1->Feature of payment app.
-* F2->Excitment towards new technology.
-* F3->Promotion by peoples.
-* F4->mostlly related to F1
+* F1->Feature of payment app(37%).
+* F2->Excitment towards new technology(12%).
+* F3->Promotion by peoples(10%).
+* F4->mostlly related to F1(7%)
