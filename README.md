@@ -27,14 +27,14 @@ All the steps are listed below ,sequentially we will apply them
 * Convinient transaction
 * Easy to track history
 * More convinient than debitcard.
-* Scured Mode transaction
-* Reliabel transaction
+* Secured Mode transaction
+* Reliable transaction
 ### Factor 2 comprises of
-* when alone try new thingd.
+* when alone try new things.
 * Explore new technology
 * experiment with way of life
 ### Factor 3 coprises of
-* Perer to used which used by friend.
+* Prefer to used which used by friend.
 * Recomended by family or friend.
 * Use when see people using it.
 ### Factor 4 comprises of
